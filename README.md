@@ -367,15 +367,19 @@ Bash automation scripts for Linux administration and DevOps operations.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arulkumar27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arulkumar27&theme=tokyonight" alt="GitHub Statistics">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=arulkumar27&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img width="48%" src="https://streak-stats.demolab.com?user=arulkumar27&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
-</div>
+<br>
 
-<div align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arulkumar27&theme=tokyonight" alt="Repositories Per Language">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulkumar27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arulkumar27&theme=tokyonight" alt="Most Commit Language">
+
+<br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arulkumar27&theme=tokyonight" alt="GitHub Profile Details">
 
 </div>
 
