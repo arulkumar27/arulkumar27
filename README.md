@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arul_Kumar_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arulkumar27)
 [![GitHub](https://img.shields.io/badge/GitHub-arulkumar27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arulkumar27)
 ![Profile Views](https://komarev.com/ghpvc/?username=arulkumar27&label=Profile+Views&color=00BFFF&style=for-the-badge)
-![Interview Ready](https://img.shields.io/badge/Interview_Ready-Cloud_%26_DevOps-2EA44F?style=for-the-badge)
 
 </div>
 
