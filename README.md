@@ -261,28 +261,57 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Java Production CI/CD
+### ♾️ DevOps Realtime Projects
 
-Implemented a CI/CD pipeline for a Java application covering build, testing, code-quality analysis and Docker packaging.
+Production-style DevOps projects covering CI/CD, containerization, orchestration, Infrastructure as Code and monitoring.
 
 **Technologies**
 
-`Jenkins` `Java` `Maven` `SonarQube` `Docker`
+`Jenkins` `Docker` `Kubernetes` `Terraform` `Ansible`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Jenkins-java-production-cicd)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/DevOps-Realtime-Projects)
 
 </td>
 <td width="50%" valign="top">
 
+### 🚀 AWS Projects
+
+Hands-on AWS projects implementing secure, scalable and highly available cloud architectures.
+
+**Technologies**
+
+`AWS` `VPC` `EC2` `ALB` `RDS` `CloudFront`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/AWS-Projects)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### ☁️ AWS Cloud Computing
 
-AWS repository covering compute, storage, networking, databases, security, monitoring and architecture.
+Structured AWS learning repository covering core services, architecture, security, networking and monitoring.
 
 **Technologies**
 
 `AWS` `EC2` `S3` `IAM` `VPC` `RDS`
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/AWS-Cloud-Computing)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Linux for DevOps
+
+Linux administration and troubleshooting reference designed for Cloud and DevOps engineering workflows.
+
+**Technologies**
+
+`Linux` `Ubuntu` `Bash` `SSH` `systemd`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Linux-for-Devops)
 
 </td>
 </tr>
@@ -292,55 +321,26 @@ AWS repository covering compute, storage, networking, databases, security, monit
 
 ### 🏗️ Terraform AWS
 
-Provisioned AWS infrastructure using reusable Terraform configurations.
+Reusable Infrastructure as Code configurations for provisioning and managing AWS resources with Terraform.
 
 **Technologies**
 
-`Terraform` `AWS` `VPC` `EC2` `Security Groups`
+`Terraform` `AWS` `VPC` `EC2` `Remote State`
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Terraform-aws)
 
 </td>
 <td width="50%" valign="top">
 
-### 🐳 Docker Zero to Hero
+### ⚙️ Ansible Automation
 
-Docker implementation covering images, containers, Dockerfiles, volumes and networking.
-
-**Technologies**
-
-`Docker` `Dockerfile` `Volumes` `Networks` `NGINX`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Docker-Zero-to-Hero)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Linux for DevOps
-
-Linux administration reference covering system operations, networking and troubleshooting.
+Ansible automation for Linux configuration management, application deployment and repeatable server operations.
 
 **Technologies**
 
-`Linux` `Ubuntu` `Bash` `SSH` `systemd`
+`Ansible` `Linux` `YAML` `Roles` `Playbooks`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Linux-for-Devops)
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 Shell Scripting
-
-Bash automation scripts for Linux administration and DevOps operations.
-
-**Technologies**
-
-`Bash` `Linux` `Cron` `Automation`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/DevOps-Shell-Scripting)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/arulkumar27/Ansible-Automation)
 
 </td>
 </tr>
